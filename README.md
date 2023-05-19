@@ -1,4 +1,11 @@
-### Tech Stack🖥️
+### 📢 About Me
+- 퍼블리셔 경력 (총 3년6개월)
+- 커뮤니케이션을 중요하게 생각하며, 좋은 코드를 위해 꾸준히 노력합니다.
+- 새로운 것에 대한 두려움 보다 배움에 즐거움을 느낍니다.
+- 자기계발을 게을리하지 않습니다.
+<br />
+
+### 💻 Tech Stack
 <!-- Skill -->
 <!-- Back -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> <!-- JAVA -->
